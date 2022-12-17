@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import { BrowserRouter as Router } from "react-router-dom";
-import { OverviewPokemon } from "./components/OverviewPokemon/OverviewPokemon";
+import OverviewPokemon from "./components/OverviewPokemon/OverviewPokemon";
 import "./styles.css";
 import SpriteCard from "./components/SpriteCard/SpriteCard";
 import InfoCard from "./components/InfoCard/InfoCard";
