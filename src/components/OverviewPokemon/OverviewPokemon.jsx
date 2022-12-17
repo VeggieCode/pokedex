@@ -14,4 +14,4 @@ const OverviewPokemon = ({ id, name, sprite }) => {
   );
 };
 
-export { OverviewPokemon };
+export default OverviewPokemon
